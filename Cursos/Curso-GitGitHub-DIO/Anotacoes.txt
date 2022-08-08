@@ -1,0 +1,19 @@
+Aqui ficará descrito algumas funcionalidades e informacoes obtidas durante o curso de Git/GitHub da DIO.
+
+O Git é um programa utilizada para versionar códigos.
+Muitas pessoas confundem acreditando que o Git e o GitHub são as mesmas coisas, porem, eles são diferentes.
+
+Algumas funções do Git/GitHub:
+ - Controle de versão
+ - Armazenamento em nuvem 
+ - Trabalho em equipe
+ - Melhorar seu código
+ - Reconhecimento
+
+OBS: O Git não possui interface grafica, pois, é um CLI (comand line interface)
+
+** Adicionar alguns comandos básicos do Git **
+
+
+Link para download do Git: https://git-scm.com/downloads
+
